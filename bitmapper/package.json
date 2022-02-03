@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-cursor",
+  "version": "1.0.0",
+  "description": "An opensource Pokemon cursor theme for Windows and Linux.",
+  "main": "index.js",
+  "author": "Kaiz Khatri",
+  "license": "GPL-3.0",
+  "private": true,
+  "scripts": {
+    "render": "yarn ts-node src/index.ts"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
