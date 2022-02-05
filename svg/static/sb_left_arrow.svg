@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none">
+  <g filter="url(#filter0_i_2_63)">
+    <path d="M151.749 118.089L136.439 118.446L93.5046 118.369C90.3176 118.364 87.9388 121.301 88.6068 124.417L91.2559 136.776C92.2474 141.401 86.8571 144.689 83.1982 141.692L39.8313 106.161C37.687 104.404 37.3813 101.238 39.1498 99.1031L67.5513 64.8199C70.2157 61.6038 75.4153 62.8781 76.2906 66.9617L79.9695 84.124C80.463 86.4259 82.4953 88.0718 84.8495 88.076L129.946 88.1565L147.279 87.9958C149.654 87.9738 151.716 89.6254 152.214 91.9476L156.521 112.042C157.179 115.108 154.884 118.015 151.749 118.089Z" fill="#FFCC01"/>
+  </g>
+  <path d="M136.556 123.445L136.493 123.446L136.43 123.446L93.4957 123.369L96.1449 135.728C98.1277 144.978 87.3472 151.555 80.0294 145.559L36.6625 110.028C32.374 106.515 31.7625 100.183 35.2994 95.9133L63.701 61.6301L67.5513 64.8199L63.701 61.6301C69.0297 55.1979 79.4289 57.7465 81.1796 65.9137L84.8585 83.076L129.927 83.1564L147.232 82.996C151.982 82.952 156.107 86.2552 157.103 90.8996L161.41 110.994C162.725 117.126 158.136 122.941 151.866 123.087L136.556 123.445Z" stroke="url(#paint0_radial_2_63)" stroke-width="10"/>
+  <g filter="url(#filter1_i_2_63)">
+    <path d="M155.371 112.082L140.06 112.44L97.1262 112.363C93.9392 112.358 91.5603 115.295 92.2283 118.411L94.8775 130.77C95.8689 135.395 90.4787 138.683 86.8198 135.686L43.4529 100.154C41.3086 98.3976 41.0029 95.2316 42.7713 93.0969L71.1729 58.8138C73.8373 55.5977 79.0369 56.872 79.9122 60.9556L83.5911 78.1179C84.0845 80.4198 86.1169 82.0657 88.4711 82.0699L133.568 82.1504L150.9 81.9897C153.275 81.9676 155.338 83.6192 155.836 85.9415L160.143 106.036C160.8 109.102 158.506 112.009 155.371 112.082Z" fill="#FFCC01"/>
+  </g>
+  <path d="M140.177 117.439L140.114 117.44L140.052 117.44L97.1173 117.363L99.7664 129.722C101.749 138.972 90.9688 145.549 83.6509 139.553L40.2841 104.022C35.9956 100.508 35.3841 94.1765 38.921 89.9071L67.3226 55.624L71.1729 58.8138L67.3226 55.624C72.6513 49.1918 83.0504 51.7404 84.8012 59.9076L88.48 77.0699L133.549 77.1503L150.854 76.9899C155.604 76.9458 159.729 80.2491 160.725 84.8935L165.032 104.988C166.346 111.12 161.757 116.935 155.487 117.081L140.177 117.439Z" stroke="#3C5AA6" stroke-width="10"/>
+  <defs>
+    <filter id="filter0_i_2_63" x="27.9996" y="52.999" width="138.638" height="99.8811" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dx="-7" dy="13"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.780392 0 0 0 0 0.627451 0 0 0 0 0.0313726 0 0 0 1 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_2_63"/>
+    </filter>
+    <filter id="filter1_i_2_63" x="31.6212" y="46.9929" width="138.638" height="99.8811" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dx="-7" dy="13"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.780392 0 0 0 0 0.627451 0 0 0 0 0.0313726 0 0 0 1 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_2_63"/>
+    </filter>
+    <radialGradient id="paint0_radial_2_63" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(161.748 85.5354) rotate(166.081) scale(66.3797 22.7106)">
+      <stop stop-color="#0070B6"/>
+      <stop offset="1" stop-color="#1D2C5E"/>
+    </radialGradient>
+  </defs>
+</svg>
