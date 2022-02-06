@@ -22,7 +22,7 @@ const main = async () => {
 
   for (let { key, content } of svg.getAnimated()) {
     console.log(" ==> Saving", key, "...");
-    await png.generateAnimated(browser, content, key);
+    await png.generateAnimated(browser, content, key, { playbackRate: 1.0 });
   }
 
   await browser.close();
