@@ -64,7 +64,7 @@ prepare: bitmaps themes
 	@rm -rf bin
 	@mkdir -p bin
 	@cd bitmaps
-	@zip -r $(BIN_DIR)/bitmaps.zip $(theme)
+	@zip -r $(BIN_DIR)/bitmaps.zip $(theme)/*
 	@cd ..
 	@cd themes
 	@tar -czvf $(BIN_DIR)/$(theme).tar.gz $(theme)
