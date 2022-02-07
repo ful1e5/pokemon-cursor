@@ -4,7 +4,7 @@ import { BitmapsGenerator, SVGHandler } from "./core";
 
 const root = path.resolve(__dirname, "../../");
 const svgDir = path.resolve(root, "svg");
-const themeName = "pokemon";
+const themeName = "Pokemon";
 
 const main = async () => {
   console.log("Generating bitmaps for", themeName);
