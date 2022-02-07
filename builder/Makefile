@@ -20,4 +20,4 @@ build_unix:
 	@python3 build.py unix -p "$(bitmaps_dir)/Pokemon" --xsizes $(X_SIZES)
 
 build_windows:
-	@python3 build.py windows -p "$(bitmaps_dir)/macOSMonterey" --win-size $(WIN_SIZE) --win-canvas-size $(WIN_CANVAS_SIZE)
+	@python3 build.py windows -p "$(bitmaps_dir)/Pokemon" --win-size $(WIN_SIZE) --win-canvas-size $(WIN_CANVAS_SIZE)
