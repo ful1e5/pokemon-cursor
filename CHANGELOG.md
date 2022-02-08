@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
--
+- Removed copyright content from theme and tag this project as unofficial.
 
 ## [v1.0.0] - 08 Feb 2022
 

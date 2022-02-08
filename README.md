@@ -1,6 +1,6 @@
 # pokemon-cursor
 
-An opensource Pokemon cursor theme for Windows and Linux.
+An unofficial opensource Pokemon cursor theme for Windows and Linux.
 
 [![build](https://github.com/ful1e5/pokemon-cursor/actions/workflows/build.yml/badge.svg)](https://github.com/ful1e5/pokemon-cursor/actions/workflows/build.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/ful1e5/pokemon-cursor/badge)](https://www.codefactor.io/repository/github/ful1e5/pokemon-cursor)
@@ -38,7 +38,7 @@ An opensource Pokemon cursor theme for Windows and Linux.
 > Check [Figma](https://www.figma.com/file/OoAFKT3u1HkzSe74QrLarQ/pokemon-cursor?node-id=0%3A1) file for .svg files.
 
 <p align="center">
-  <img title="Pokemon" src="https://imgur.com/oFgJaO9.png">
+  <img title="Pokemon" src="https://imgur.com/Xhm2xgS.png">
   </img>
   <sub>Pokemon Cursors</sub>
 </p>
