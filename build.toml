@@ -1,10 +1,10 @@
 [theme]
-name = 'Pokemon Cursor'
+name = 'Pokemon'
 comment = 'An opensource Pokemon cursor (Unoffcial) theme for Windows and Linux. '
 website = 'https://github.com/ful1e5/pokemon-cursor'
 
 [config]
-bitmaps_dir = '' # This config will assigned with `ctgen -d <path>`
+bitmaps_dir = 'bitmaps/Pokemon'
 out_dir = 'themes'
 platforms = ['x11', 'windows']
 x11_sizes = [22, 24, 28, 32, 40, 48, 56, 64, 72, 80, 88, 96]

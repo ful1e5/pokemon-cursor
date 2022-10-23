@@ -4,6 +4,6 @@
   },
   "scripts": {
     "render": "npx cbmp -d 'svg' -n 'Pokemon'",
-    "build": "ctgen build.toml -d 'bitmaps/Pokemon' -n 'Pokemon' -c 'An unofficial Pokemon cursors.'"
+    "build": "ctgen build.toml"
   }
 }
